@@ -23,6 +23,7 @@ How to represent a graph?
 - ***edge list:*** every element is a tuple (a,b) indicating an edge between vertex 'a' and 'b'
   
 ***Trees***
+
 A graph is a tree if it is:
 - connected; and
 - has no cycles
