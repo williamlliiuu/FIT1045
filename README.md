@@ -50,4 +50,8 @@ Paradigm: decrease-and-conquer
 ###### Merge Sort
 **Intuition:** divide list into smaller lists and merge smaller lists to maintain sorted order.
 
+###### Quick Sort
+**Intuition:** partition list so that the selected pivot is in the correct position, then partition the sections on left and right of pivot.
+
+
  
