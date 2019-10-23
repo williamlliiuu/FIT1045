@@ -38,6 +38,7 @@ Purpose: find spanning tree of a graph
 
 ###### Selection Sort
 Intuition: keep selecting the next smallest element in the unsorted section of list, and append to the end of the sorted section.
+
 note: only need to select smallest item in lst[n-2:], as when there are 2 elements left in list. The 2 elements are either in order or just need to swap.
 
 ###### Insertion Sort
