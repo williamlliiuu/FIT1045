@@ -36,4 +36,18 @@ Spanning Tree: a subgraph of G that contains all vertices of G and is a tree.
 ###### Prim's Algorithm
 Purpose: find spanning tree of a graph
 
+###### Selection Sort
+Intuition: keep selecting the next smallest element in the unsorted section of list, and append to the end of the sorted section.
+note: only need to select smallest item in lst[n-2:], as when there are 2 elements left in list. The 2 elements are either in order or just need to swap.
+
+###### Insertion Sort
+**Intuition:** find the right spot to insert the next element in sorted section of list
+
+###### Binary Search
+Problem: issue with searching iteratively, is that worse case O(n) when the item is at the end the last place we look at.
+Paradigm: decrease-and-conquer
+
+###### Merge Sort
+**Intuition:** divide list into smaller lists and merge smaller lists to maintain sorted order.
+
  
