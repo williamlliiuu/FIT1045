@@ -1,4 +1,4 @@
-# FIT1045
+# FIT1045 - Intro to Python
 ## Algorithms
 Firstly, we need to know what computational problems are. A computational problem is an infinite collection of questions, with at least one answer for every question.
 For example - Addition
